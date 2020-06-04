@@ -1,0 +1,12 @@
+{
+  "name": "fylo-data-storage-component",
+  "version": "1.0.0",
+  "description": "Fylo Data Storage Component Challenge of FrontendMentor.io is responsive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "servor . index.html 9999 --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
